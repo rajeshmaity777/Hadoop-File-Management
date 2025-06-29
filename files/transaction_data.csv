@@ -1,0 +1,11 @@
+transaction_id,user_id,amount,status
+101,1,250,Completed
+102,2,400,Failed
+103,3,150,Completed
+104,4,600,Completed
+105,5,320,Failed
+106,1,290,Completed
+107,2,500,Completed
+108,3,120,Failed
+109,4,620,Completed
+110,5,350,Completed
